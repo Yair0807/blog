@@ -7,4 +7,4 @@ Hoy hablaremos de su historia.
 
 estamos cambiando otra vez esto
 
-cabecera
+cabecera, estos cambios se debeían hacer en html
